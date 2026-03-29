@@ -1,0 +1,107 @@
+{
+    "version": "1.0",
+    "file_records": [
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/ANYbotics/materials/base.jpg",
+            "source_hash": "9063159f260eb2ddd709cbbc11949088f03966c9",
+            "target_url": "./materials/base.jpg",
+            "target_hash": "54b642abcf78dba42a355cd8baa16429a14d7e1c"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/ANYbotics/materials/battery.jpg",
+            "source_hash": "73d6fa948664cbeed1dd079c856c03854fec3dfe",
+            "target_url": "./materials/battery.jpg",
+            "target_hash": "b5f7baaae215a9bf18be9e625b4f69b0f10ebcc4"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/ANYbotics/materials/bottom_shell.jpg",
+            "source_hash": "eeef43727cd57b120ca53724256f9d553e7e843a",
+            "target_url": "./materials/bottom_shell.jpg",
+            "target_hash": "f046c4fd64767804e67d96a30aecd897eb6854fd"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/ANYbotics/materials/depth_camera.jpg",
+            "source_hash": "c75c68fa84beabd9dcafe51e13c48a9b6c783176",
+            "target_url": "./materials/depth_camera.jpg",
+            "target_hash": "b137b9acb6688e158fa95da3ea813b705797a92b"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/ANYbotics/materials/drive.jpg",
+            "source_hash": "ed88d2219694300775efa819d49071134aca47f4",
+            "target_url": "./materials/drive.jpg",
+            "target_hash": "9d3587d1af8a09d93bcdc3463720cf950e2d41c1"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/ANYbotics/materials/face.jpg",
+            "source_hash": "fa6b5d364ab2d810088ee95416510a59b8088fe7",
+            "target_url": "./materials/face.jpg",
+            "target_hash": "4dfe945cc2c0e81e49ff8b0803d5a0533bb68408"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/ANYbotics/materials/foot.jpg",
+            "source_hash": "2d1468db74332ade374930a47c40a0fcd99b5ffc",
+            "target_url": "./materials/foot.jpg",
+            "target_hash": "d83faa6f60ee8c21ca33c03d276f7a98ff35ed96"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/ANYbotics/materials/handle.jpg",
+            "source_hash": "f21945f073a508d033b2906b2bb302dff5484b05",
+            "target_url": "./materials/handle.jpg",
+            "target_hash": "399d4de1d5f7a9c47fbb374904c67807161f8cd8"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/ANYbotics/materials/hatch.jpg",
+            "source_hash": "e36f6af42346cf62cdb43b95e1c75e3b7e6af2a1",
+            "target_url": "./materials/hatch.jpg",
+            "target_hash": "7dfd0a37b6e62dc68197247e39566ce326a0b361"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/ANYbotics/materials/hip.jpg",
+            "source_hash": "b1fba807aaa4d3057945bee0ec8530368eee993f",
+            "target_url": "./materials/hip.jpg",
+            "target_hash": "58c0735085e0ff70780844a8e7dd3cc3e3354107"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/ANYbotics/materials/lidar.jpg",
+            "source_hash": "41ad3662f0e55bec4e69933a75b8f37e69c965ee",
+            "target_url": "./materials/lidar.jpg",
+            "target_hash": "6f323122f5221977b29af50683ea9a87310ad806"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/ANYbotics/materials/lidar_cage.jpg",
+            "source_hash": "3c75ebf7d78c08a73f686f6ca2b87a25c874112b",
+            "target_url": "./materials/lidar_cage.jpg",
+            "target_hash": "c97e1c6cbdd7494d5bace0063450360f58ef44b5"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/ANYbotics/materials/remote.jpg",
+            "source_hash": "99c0f719dc4d41e05cac44d2a5dc20791dc5ee96",
+            "target_url": "./materials/remote.jpg",
+            "target_hash": "d9eea12808ac474082f17e810098f7a605460375"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/ANYbotics/materials/shank.jpg",
+            "source_hash": "73ad337d8626536cd099da2068b15967fdaee714",
+            "target_url": "./materials/shank.jpg",
+            "target_hash": "865e4b43dc14911952d33687bbd68ae46196f5ac"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/ANYbotics/materials/thigh.jpg",
+            "source_hash": "891af595e481c37133902d91200ca4e054279647",
+            "target_url": "./materials/thigh.jpg",
+            "target_hash": "552b6fafc3c7cd1ec8b08a6d299d5c77774b6237"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/ANYbotics/materials/top_shell.jpg",
+            "source_hash": "00877b531a875d1e28f91506a263122b95892cc3",
+            "target_url": "./materials/top_shell.jpg",
+            "target_hash": "1f960190da8b5592593485c96be4820e2427af0f"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/ANYbotics/materials/wide_angle_camera.jpg",
+            "source_hash": "a187d1d3d25b4342cb7ab66a230fd471bef45c39",
+            "target_url": "./materials/wide_angle_camera.jpg",
+            "target_hash": "f5fed873258d86f6cdfd60498735b16e2242648a"
+        }
+    ]
+}
